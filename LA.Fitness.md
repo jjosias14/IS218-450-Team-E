@@ -1,8 +1,8 @@
-#1 Brand Archetypes:
+Brand Archetypes:
 
 LA Fitness's brand archetype, fitness brands often align themselves with archetypes such as the Hero (empowering individuals to achieve their fitness goals), the Sage (providing expert guidance and knowledge), or the Everyman (making fitness accessible to everyone).
 
-#2 Sales Funnel Stages: 
+Sales Funnel Stages: 
 
 LA Fitness likely employs various marketing and promotional activities to attract potential customers, nurture their interest, encourage consideration of membership options, facilitate the conversion process, and then focus on member retention through exceptional service and ongoing engagement.
 
