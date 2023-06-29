@@ -4,7 +4,7 @@ LA Fitness's brand archetype, fitness brands often align themselves with archety
 
 Sales Funnel Stages: 
 
-LA Fitness likely employs various marketing and promotional activities to attract potential customers, nurture their interest, encourage consideration of membership options, facilitate the conversion process, and then focus on member retention through exceptional service and ongoing engagement.
+LA Fitness employs various marketing and promotional activities to attract potential customers, nurture their interest, encourage consideration of membership options, facilitate the conversion process, and then focus on member retention through exceptional service and ongoing engagement.
 
 BANT Strategies: 
 
