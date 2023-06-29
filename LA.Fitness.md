@@ -1,4 +1,4 @@
-Brand Archetypes:
+#Brand Archetypes:
 
 LA Fitness's brand archetype, fitness brands often align themselves with archetypes such as the Hero (empowering individuals to achieve their fitness goals), the Sage (providing expert guidance and knowledge), or the Everyman (making fitness accessible to everyone).
 
