@@ -1,1 +1,0 @@
-# Brand Research 1
