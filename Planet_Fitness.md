@@ -1,1 +1,2 @@
-la# Brand Research 1
+#1 Brand Archetype
+Planet Fitness fits under the everyman archetype, this company is very much hampered by the fact that they accept everyone into their gym and market this heavily. This is shown through their commercials where they come off as extremely welcoming to people from all walks of life and levels of fitness. They use the colors of Purple and Yellow, to express that everyone is royalty in their own light and has the right to reach their fitness goals
