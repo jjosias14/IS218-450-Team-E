@@ -1,5 +1,5 @@
-
 Strengths: 
+
 
 Low Prices: Offering affordable membership rates can attract a wide range of customers, including those who are budget-conscious or looking for a cost-effective fitness solution. 
 
@@ -10,6 +10,7 @@ No Commitment Fees: Waiving commitment fees or offering flexible membership opti
 Friendly Staff: Having a friendly and supportive staff can create a welcoming atmosphere and enhance the overall customer experience. It can help build rapport, address customer concerns, and provide guidance and assistance when needed. 
 
 Large Membership Base: A gym with a high number of people can create a vibrant and lively environment, fostering a sense of community and motivation. It can also provide opportunities for social interactions and potential workout partners.
+
 Brand Archetype: Hero, to encourage people to grasp the best version of themselves and be the best they can be
 Six persuasion methods
 Reciprocity- We give them an absolutely incredible deal on gym access, allowing them to work out well and intensely for a minimal amount. This will make them want to give back a strong level of loyalty
@@ -32,6 +33,7 @@ Timeline: Buildings should be packed within the next 3 years
 
 Weaknesses: 
 
+
 Overcrowding: With a large membership base, the gym may face the challenge of overcrowding during peak hours, making it difficult for individuals to access equipment or participate in classes comfortably.
 
 Limited Personalization: Offering low-priced memberships and catering to a large number of people may result in limited opportunities for personalized attention or individualized fitness plans. Some customers may prefer more tailored guidance or specialized programs.
@@ -43,8 +45,6 @@ Reputation: Since we are a fairly new gym we aren't really known in the gym mark
 Equipment Availability: During busy periods, the availability of equipment may be limited due to the high number of users. This could result in longer wait times or the need to modify workout plans due to equipment unavailability. 
 ​​Six persuasion methods
 Social Proof- as a start-up, this is a very hard one to get to, as we will have no form of social proof to show until later in the future when we are successful and others experience the gym for the first time, and continue to come and use it
-
-
 
 
 Opportunities:
@@ -59,7 +59,9 @@ Expansion into New Markets: We can explore opportunities to expand into new geog
 Partnerships and Collaborations: Collaborating with fitness influencers, nutritionists, wellness experts, or other complementary businesses can create valuable partnerships. Our business can leverage these partnerships to enhance our offerings, access new customer segments, and increase brand visibility through joint marketing.
 
 
+
 Threats
+
 
  Competition: The fitness industry is highly competitive, with numerous local and national gym chains, boutique fitness studios, and online fitness platforms.  The presence of strong competitors can pose a threat to our market share and customer retention.
 
