@@ -1,29 +1,24 @@
-Group Activity Report 1
-By: Manav, Joshua, Penelope
+Weaknesses: 
+
+Overcrowding: With a large membership base, the gym may face the challenge of overcrowding during peak hours, making it difficult for individuals to access equipment or participate in classes comfortably.
+
+Limited Personalization: Offering low-priced memberships and catering to a large number of people may result in limited opportunities for personalized attention or individualized fitness plans. Some customers may prefer more tailored guidance or specialized programs.
+
+Location: Since we are a fairly new gym we only have one location so far making it only accessible to people located near our gym.
+
+Reputation: Since we are a fairly new gym we aren't really known in the gym market as of yet compared to our competitors.
+
+Equipment Availability: During busy periods, the availability of equipment may be limited due to the high number of users. This could result in longer wait times or the need to modify workout plans due to equipment unavailability. ​​
 
 
-| Pull Request Title | Description | Assignee  | Story Points |Date Assigned  |Date Completed |
-| ------------- | ------------- |------------- | ------------- |------------- | ------------- |
-| Merge pull request #1 from jjosias14/Assignment -1  | Updates to Gold and Planet Fitness| Manav Patel | 3 | 06/22/2023  | 06/29/2023| 
-| Updates to Gold’s Gym and Planet Fitness|GG’s brand archetype, PF Sales Funnel Structure| Joshua Josias  | 5  | 06/22/2023  | 06/29/2023 |
-| Gold’s Gym Bant Strategy  | Overview of BANT's strategy for Gold's Gym  | Manav Patel  | 3 | 06/22/2023 | 06/29/2023  |
-| Gold's Gym Sales Funnel | Information of the sales funnel is for Gold's Gym | Penelope Martinez | 3 | 06/22/2023  | 06/29/2023  |
-| Update ro Gold’s Gym and start of SWOT|Finished Gold's Gym and began the SWOT analysis| Penelope Martinez | 4 | 06/22/2023| 06/29/2023 |
-| Edits to Planet Fitness  |few minor changes to the planter fitness readme | Joshua Josias  | 2 | 06/22/2023 | 06/29/2023  |
+Threats
+
+ Competition: The fitness industry is highly competitive, with numerous local and national gym chains, boutique fitness studios, and online fitness platforms.  The presence of strong competitors can pose a threat to our market share and customer retention.
+
+Lack of Credibility: This company will be very new, and without having the amount of experience and credibility as competitors we will be very behind unless we  find a way to leapfrog them
 
 
+Changing Consumer Preferences: Consumer preferences and trends in the fitness industry can change rapidly. If we fail to adapt to changing preferences or offer innovative and appealing services, we may lose customers to competitors who better meet these demands.
 
+Online Fitness Platforms: The rise of online fitness platforms and virtual training programs poses a threat to physical gyms. These platforms offer convenience, flexibility, and lower-cost alternatives that may attract customers who prefer to exercise at home or are unable to commit to a traditional gym setting.
 
-
-Project Contribution Percent Calculation
-
-Manav’s contribution percent: 
-(6 / 20) * 100 = 30%
-
-Joshua’s contribution percent: 
-(7 / 20) * 100 = 35%
-
-Penelope's contribution percent: 
-(7 / 20) * 100 = 35%
-
-![SWOTgroup](https://github.com/jjosias14/IS218-450-Team-E/assets/98057287/378d68de-9080-43ea-b83f-9ad8c80769f2)
