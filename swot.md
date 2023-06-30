@@ -6,7 +6,7 @@ By: Manav, Joshua, Penelope
 | ------------- | ------------- |------------- | ------------- |------------- | ------------- |
 | Merge pull request #1 from jjosias14/Assignment -1  | Updates to Gold and Planet Fitness| Manav Patel | 3 | 06/22/2023  | 06/29/2023| 
 | Updates to Gold’s Gym and Planet Fitness  | Brand  | Joshua Josias  | 5  | 06/22/2023  | 06/29/2023  |
-| Content Cell  | Content Cell  |Content Cell  | Content Cell  |Content Cell  | Content Cell  |
+| Gold’s Gym Bant Strategy  | Overview of BANT's strategy for Gold's Gym  | Manav Patel  | 3 | 06/22/2023 | 06/29/2023  |
 | Content Cell  | Content Cell  |Content Cell  | Content Cell  |Content Cell  | Content Cell  |
 | Content Cell  | Content Cell  |Content Cell  | Content Cell  |Content Cell  | Content Cell  |
 | Content Cell  | Content Cell  |Content Cell  | Content Cell  |Content Cell  | Content Cell  |
