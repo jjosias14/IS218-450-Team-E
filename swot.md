@@ -19,8 +19,10 @@ Project Contribution Percent Calculation
 
 Manav’s contribution percent: 
 (6 / 20) * 100 = 30%
+
 Joshua’s contribution percent: 
 (7 / 20) * 100 = 35%
+
 Penelope's contribution percent: 
 (7 / 20) * 100 = 35%
 
