@@ -4,7 +4,12 @@ By: Manav, Joshua, Penelope
 
 | Pull Request Title | Description | Assignee  | Story Points |Date Assigned  |Date Completed |
 | ------------- | ------------- |------------- | ------------- |------------- | ------------- |
-| Merge pull request #1 from jjosias14/Assignment -1  | Content Cell  |Content Cell  | Content Cell  |Content Cell  | Content Cell  |
+| Merge pull request #1 from jjosias14/Assignment -1  | Updates to Gold and Planet Fitness
+
+  |Manav Patel
+  | 3 |06/22/2023  | 06/29/2023
+
+  |
 | Content Cell  | Content Cell  |Content Cell  | Content Cell  |Content Cell  | Content Cell  |
 | Content Cell  | Content Cell  |Content Cell  | Content Cell  |Content Cell  | Content Cell  |
 | Content Cell  | Content Cell  |Content Cell  | Content Cell  |Content Cell  | Content Cell  |
