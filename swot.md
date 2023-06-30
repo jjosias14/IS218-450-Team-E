@@ -7,7 +7,7 @@ By: Manav, Joshua, Penelope
 | Merge pull request #1 from jjosias14/Assignment -1  | Updates to Gold and Planet Fitness| Manav Patel | 3 | 06/22/2023  | 06/29/2023|
 
   
-| Content Cell  | Content Cell  |Content Cell  | Content Cell  |Content Cell  | Content Cell  |
+| Updates to Gold’s Gym and Planet Fitness  | Brand archetype for Gold's Gym and update to the Brand Archetype of Planet Fitness and Sales Funnel Structure of Planet Fitness  |Content Cell  | Content Cell  |Content Cell  | Content Cell  |
 | Content Cell  | Content Cell  |Content Cell  | Content Cell  |Content Cell  | Content Cell  |
 | Content Cell  | Content Cell  |Content Cell  | Content Cell  |Content Cell  | Content Cell  |
 | Content Cell  | Content Cell  |Content Cell  | Content Cell  |Content Cell  | Content Cell  |
