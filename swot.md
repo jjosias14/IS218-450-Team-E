@@ -2,7 +2,14 @@ Group Activity Report 1
 By: Manav, Joshua, Penelope
 
 
-| Pull Request Title | Description |
+| Pull Request Title | Description | Assignee  | Story Points |Date Assigned  |Date Completed |
+| ------------- | ------------- |
+| Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  |
 Pull Request Title
 Description
 Assignee
