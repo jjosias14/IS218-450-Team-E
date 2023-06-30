@@ -32,3 +32,6 @@ Gold's Gym can identify the decision-makers within a potential group or organiza
 
 # Need: 
 Gold's Gym can assess the potential customer's fitness needs and goals during consultations or tours. By understanding their specific need, Gold's Gym can highlight the relevant facilities, equipment, and programs they offer to address those needs effectively.
+
+# Timeline:
+Gold's Gym can inquire about the potential customer's timeline or desired start date for their fitness journey. This way they can recommend when it's convenient to schedule a membership activation or a trial period.
