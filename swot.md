@@ -26,3 +26,4 @@ Joshua’s contribution percent:
 Penelope's contribution percent: 
 (7 / 20) * 100 = 35%
 
+![SWOTgroup](https://github.com/jjosias14/IS218-450-Team-E/assets/98057287/378d68de-9080-43ea-b83f-9ad8c80769f2)
