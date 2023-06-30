@@ -21,3 +21,14 @@ Once customers become members, the goal is to retain them and keep them engaged.
 # 7. Advocacy: 
 Satisfied members can become advocates for Gold's Gym, sharing their positive experiences and recommending the gym to others. 
 
+
+# BANT Strategies
+
+# Budget: 
+Gold's Gym can determine an individual’s budget by offering various membership options at different price points. They provide pricing information on their website and during membership consultations. By understanding a customer's budget, Gold's Gym can recommend the most suitable membership plan.
+
+# Authority:
+Gold's Gym can identify the decision-makers within a potential group or organization and tailor their communication and offerings accordingly. They might provide family or corporate membership plans to appeal to different decision-makers.
+
+# Need: 
+Gold's Gym can assess the potential customer's fitness needs and goals during consultations or tours. By understanding their specific need, Gold's Gym can highlight the relevant facilities, equipment, and programs they offer to address those needs effectively.
