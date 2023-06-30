@@ -2,7 +2,7 @@ Group Activity Report 1
 By: Manav, Joshua, Penelope
 
 
-
+| Pull Request Title | Description |
 Pull Request Title
 Description
 Assignee
