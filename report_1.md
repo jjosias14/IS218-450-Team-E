@@ -1,49 +1,30 @@
-# Group Activity Report 1
+Group Activity Report 1
+By: Manav, Joshua, Penelope
 
-The team collaboration report should include a table of Git pull requests with columns for:
 
-- Pull Request Title
-- Description
-- Assignee
-- Story Points
-- Date Assigned
-- Date Completed
+| Pull Request Title | Description | Assignee  | Story Points |Date Assigned  |Date Completed |
+| ------------- | ------------- |------------- | ------------- |------------- | ------------- |
+| Merge pull request #1 from jjosias14/Assignment -1  | Updates to Gold and Planet Fitness| Manav Patel | 3 | 06/22/2023  | 06/29/2023| 
+| Updates to Gold’s Gym and Planet Fitness|GG’s brand archetype, PF Sales Funnel Structure| Joshua Josias  | 5  | 06/22/2023  | 06/29/2023 |
+| Gold’s Gym Bant Strategy  | Overview of BANT's strategy for Gold's Gym  | Manav Patel  | 3 | 06/22/2023 | 06/29/2023  |
+| Gold's Gym Sales Funnel | Information of the sales funnel is for Gold's Gym | Penelope Martinez | 3 | 06/22/2023  | 06/29/2023  |
+| Update ro Gold’s Gym and start of SWOT|Finished Gold's Gym and began the SWOT analysis| Penelope Martinez | 4 | 06/22/2023| 06/29/2023 |
+| Edits to Planet Fitness  |few minor changes to the planter fitness readme | Joshua Josias  | 2 | 06/22/2023 | 06/29/2023  |
 
-Example:
 
-| Pull Request Title | Description | Assignee | Story Points | Date Assigned | Date Completed |
-| ------------------ | ----------- | -------- | ------------- | ------------- | -------------- |
-| Homepage design | Design the homepage layout | Alice | 5 | MM/DD/YYYY | MM/DD/YYYY |
-| Contact form | Implement a contact form on the Contact Us page | Bob | 3 | MM/DD/YYYY | MM/DD/YYYY |
 
-## Project Contribution Percent Calculation
 
-The project contribution percentage for each team member can be calculated based on the sum of story points assigned to each member. Here's an example:
 
-If the total number of story points for a week is 20, and Alice completed tasks with 5 story points, Bob completed tasks with 7 story points, and Charlie completed tasks with 8 story points, then:
+Project Contribution Percent Calculation
 
-- Alice's contribution percent: (5 / 20) * 100 = 25%
-- Bob's contribution percent: (7 / 20) * 100 = 35%
-- Charlie's contribution percent: (8 / 20) * 100 = 40%
+Manav’s contribution percent: 
+(6 / 20) * 100 = 30%
 
-Please include this information in your group activity report for a clear understanding of individual contributions.
+Joshua’s contribution percent: 
+(7 / 20) * 100 = 35%
 
-## Meeting Attendance
+Penelope's contribution percent: 
+(7 / 20) * 100 = 35%
 
-To verify attendance and active participation during the online meetings, please attach a screenshot documenting the meeting attendees. This ensures that everyone is present, contributing, and collaborating effectively.
 
-## Calculating Story Points
-
-Story points are a measure of effort, complexity, and uncertainty involved in a task. To assign story points, you can use a modified version of the Fibonacci sequence (1, 2, 3, 5, 8, 13, 21, 34, and so on) to reflect the understanding that the effort doesn't increase linearly with complexity.
-
-The numbers in this sequence reflect relative sizing of tasks, allowing your team to quickly categorize tasks into buckets without getting bogged down in determining the exact duration of each task.
-
-- 1: Simple task (requires little effort and knowledge)
-- 2: Slightly complex task
-- 3: Moderately complex task
-- 5: Complex task
-- 8: Very complex task
-- 13, 21, and so on: These larger numbers can be used for epic tasks that will be broken down into smaller tasks.
-
-During your team meetings, discuss and agree on the story points for each task. The sum of all story points for the week gives you the total effort required for the week's tasks.
 
