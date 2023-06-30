@@ -18,5 +18,6 @@ This stage marks the conversion of potential customers into actual members. They
 
 # 6. Retention:
 Once customers become members, the goal is to retain them and keep them engaged. Regular communication, feedback survey, and addressing customer concerns are important steps for maintaining long-term relationships with the members.
-
+# 7. Advocacy: 
+Satisfied members can become advocates for Gold's Gym, sharing their positive experiences and recommending the gym to others. 
 
