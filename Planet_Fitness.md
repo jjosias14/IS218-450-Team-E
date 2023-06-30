@@ -13,4 +13,5 @@ Authority: Planet Fitness is a judgment-free zone, so the most authority over wh
 Need: The need for Planet Fitness is to solve the health needs of all of its members and help them meet their fitness goals
 Timeline: The timeline is totally based on the user
 
-
+Persuasion Methods:
+They use the arts of Consistency, Liking, and Social Proofing the most as arts of persuasion. They are consistent in their message, and not only that without consistency results cannot be made in the gym, so that also plays a part. When it comes to liking, they show that you are always welcome, showing that you are capable of being here, and that you are wanted here. There is also social proofing that comes in with the judgement-free zone.
