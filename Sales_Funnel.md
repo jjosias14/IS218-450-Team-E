@@ -10,5 +10,5 @@ In this stage, potential customers start to develop an interest in Powerhouse Gy
 
 
 
-# 5. Action:
+# 4. Action:
 This stage marks the conversion of potential customers into actual members. They sign up for a membership plan, complete the necessary paperwork, and make their initial payment. 
