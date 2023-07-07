@@ -4,7 +4,7 @@ This is the stage where potential customers become aware of Powerhouse Gym. Awar
 
 # 2. Interest:
 
-In this stage, potential customers start to develop an interest in Powerhouse Gym.  The goal is to capture their interest and provide them with more info so they eventually join.
+In this stage, potential customers start to develop an interest in Powerhouse Gym.  The goal is to capture their interest with our social media presence and provide them with more info so they eventually join.
 
 
 # 3. Desire 
