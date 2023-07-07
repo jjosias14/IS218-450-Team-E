@@ -10,7 +10,7 @@ By: Manav, Joshua, Penelope
 | Assignment 2 #15 | Added paragraphs to the Brand guide | Penelope Martinez | 3 | 07/01/2023  | 07/06/2023  |
 | Update Brand_Guide.md #16|Added more information on the gyms Brand Guide| Penelope Martinez | 3 | 07/01/2023| 07/06/2023 |
 | Sales Funnel #17 | Creation & Edits to Sales Funnel | Joshua Josias  | 2 | 07/01/2023 | 07/06/2023  |
-| Edits to Planet Fitness  |few minor changes to the planter fitness readme | Joshua Josias  | 2 | 07/01/2023 | 07/06/2023  |
+| sales funnel #18  | Finalized Sales Funnel | Joshua Josias  | 2 | 07/01/2023 | 07/06/2023  |
 
 
 
