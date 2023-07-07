@@ -8,7 +8,7 @@ In this stage, potential customers start to develop an interest in Powerhouse Gy
 
 # 3. Desire 
 
-
+In this stage, we aim to create a strong desire or interest in your product or service among our potential customers. We focus on showcasing the benefits and unique value proposition of our facility.
 
 # 4. Action:
 This stage marks the conversion of potential customers into actual members. They sign up for a membership plan, complete the necessary paperwork, and make their initial payment. 
