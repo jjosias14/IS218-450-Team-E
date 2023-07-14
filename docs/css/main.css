@@ -1,17 +1,68 @@
-h1, h2, h3 {
-    color:  rgb(107, 5, 25);
-  }
-  
-  body {
-    color: darkgrey;
-  }
-  
-  section {
-    padding-bottom: 3px;
-  }
-  
-  nav {
-    padding: 2px 4px 5px;
-    font-size: 15px;
-    color: darkgrey;
-  }
+body {
+  font-family: Arial, sans-serif;
+}
+
+/* Header Styles */
+header {
+  background-color: #333;
+  padding: 20px;
+  color: #fff;
+  text-align: center;
+}
+
+header h1 {
+  font-size: 36px;
+  margin: 0;
+}
+
+/* Main Content Styles */
+.main-content {
+  padding: 40px;
+}
+
+.main-content h2 {
+  font-size: 24px;
+  font-weight: bold;
+  color: #333;
+}
+
+.main-content p {
+  font-size: 16px;
+  color: #666;
+  line-height: 1.5;
+}
+
+/* Call to Action Styles */
+.call-to-action {
+  background-color: #ff6600;
+  padding: 20px;
+  text-align: center;
+}
+
+.call-to-action a {
+  color: #fff;
+  text-decoration: none;
+  font-size: 18px;
+  font-weight: bold;
+  padding: 10px 20px;
+  background-color: #333;
+  border-radius: 4px;
+  transition: background-color 0.3s ease;
+}
+
+.call-to-action a:hover {
+  background-color: #555;
+}
+
+/* Footer Styles */
+footer {
+  background-color: #333;
+  padding: 20px;
+  color: #fff;
+  text-align: center;
+  font-size: 14px;
+}
+
+footer p {
+  margin: 0;
+}
