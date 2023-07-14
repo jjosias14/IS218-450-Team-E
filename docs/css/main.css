@@ -1,0 +1,15 @@
+h1, h2, h3 {
+    color:  rgb(107, 5, 25);
+  }
+  
+  body {
+    color: darkgrey;
+  }
+  
+  section {
+    padding-bottom: 3px;
+  }
+  
+  nav {
+    padding: 2px 4px 5px;
+  }
