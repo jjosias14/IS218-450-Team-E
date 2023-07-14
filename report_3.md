@@ -4,7 +4,7 @@ By: Manav, Joshua, Penelope
 
 | Pull Request Title | Description | Assignee  | Story Points |Date Assigned  |Date Completed |
 | ------------- | ------------- |------------- | ------------- |------------- | ------------- |
-| Create Buyer_Persona.md | This has the needs and part of the behavior | Manav Patel | 4 | 07/07/2023  | 07/14/2023| 
+| Added navigation bar | Added navigation bar to file | Manav Patel | 4 | 07/07/2023  | 07/14/2023| 
 |Assignment 2 | updated behavior added motivation | Joshua Josias  | 5  | 07/07/2023  | 07/14/2023 |
 | Update Buyer_Persona.md #14  | Added BANT and persuasion analysis | Manav Patel  | 3 | 07/07/2023 | 07/14/2023  |
 | Assignment 2 #15 | Added paragraphs to the Brand guide | Penelope Martinez | 3 | 07/07/2023  | 07/14/2023  |
