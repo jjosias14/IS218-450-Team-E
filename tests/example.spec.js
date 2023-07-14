@@ -1,7 +1,7 @@
 // @ts-check
 const { test, expect } = require('@playwright/test');
 
-const resumeURL = 'http://localhost:3000'; // Replace with the URL of the student's resume page
+const resumeURL = 'docs/brand_guide.html'; // Replace with the URL of the student's resume page
 
 /* This test checks that the profile name (h2) is visible on the page */
 test('Check Profile Name', async ({ page }) => {
