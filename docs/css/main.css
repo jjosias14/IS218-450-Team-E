@@ -80,6 +80,7 @@ footer p {
   
 }
 video{
-  transform: translateY(1000px); 
-  transform: translateX(1400px); 
+  transform: translateY(-100px); 
+  transform: translateX(1000px); 
+  align-content: center;
 }
