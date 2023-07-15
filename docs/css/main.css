@@ -21,10 +21,7 @@ header h1 {
   margin: 0;
 }
 
-/* Main Content Styles */
-.main-content {
-  padding: 40px;
-}
+
 
 .main-content h2 {
   font-size: 26px;
@@ -42,7 +39,7 @@ header h1 {
 body{
   background-color: #ff6600;
   padding: 20px;
-  text-align: center;
+ 
 }
 
  a {
@@ -75,5 +72,6 @@ footer p {
 .list{
   display: flex;
   justify-content: flex-start;
-  margin: 0 auto;
+  margin-left: 20px;
+  
 }
