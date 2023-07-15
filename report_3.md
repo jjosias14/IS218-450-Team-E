@@ -8,7 +8,7 @@ By: Manav, Joshua, Penelope
 | Update CNAME | updated website name  | Joshua Josias  | 5  | 07/07/2023  | 07/14/2023 |
 | Edited CSS | Made internal edits to the CSS file | Manav Patel  | 3 | 07/07/2023 | 07/14/2023  |
 | Update strategic_market_plan.html  | Updated the strategic market plan in the master| Penelope Martinez | 3 | 07/07/2023  | 07/14/2023  |
-| Update Brand_Guide.md #16|Added more information on the gyms Brand Guide| Penelope Martinez | 3 | 07/07/2023| 07/14/2023 |
+| Merge branch 'assignment-3a'| Merged the branch to assignment 3a| Penelope Martinez | 3 | 07/07/2023| 07/14/2023 |
 | Sales Funnel #17 | Creation & Edits to Sales Funnel | Joshua Josias  | 2 | 07/07/2023 | 07/14/2023  |
 | Sales funnel #18  | Finalized Sales Funnel | Joshua Josias  | 2 | 07/07/2023 | 07/14/2023  |
 
