@@ -18,7 +18,7 @@ Tone: Energetic, Motivational, Encouraging, Empowering.
 
 Fonts:
 
-Main Font: Choose bold, strong fonts that convey power and energy. Examples include Impact, Bebas Neue, or Montserrat.
+Main Font: Choose bold, strong fonts that convey power and energy. Examples include Impact, Bebas Neue, and Montserrat.
 
 Secondary Font: Use a complementary font that is clean and modern for subheadings and body text. Examples include Roboto, Lato, or Open Sans.
 
