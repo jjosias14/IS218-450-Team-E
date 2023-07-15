@@ -9,7 +9,7 @@ By: Manav, Joshua, Penelope
 | Edited CSS | Made internal edits to the CSS file | Manav Patel  | 3 | 07/07/2023 | 07/14/2023  |
 | Update strategic_market_plan.html  | Updated the strategic market plan in the master| Penelope Martinez | 3 | 07/07/2023  | 07/14/2023  |
 | Merge branch 'assignment-3a'| Merged the branch to assignment 3a| Penelope Martinez | 3 | 07/07/2023| 07/14/2023 |
-| Sales Funnel #17 | Creation & Edits to Sales Funnel | Joshua Josias  | 2 | 07/07/2023 | 07/14/2023  |
+| Edited the home page | Made changes to the Home page | Joshua Josias  | 2 | 07/07/2023 | 07/14/2023  |
 | Sales funnel #18  | Finalized Sales Funnel | Joshua Josias  | 2 | 07/07/2023 | 07/14/2023  |
 
 
