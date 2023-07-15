@@ -1,9 +1,10 @@
 body { 
-  background-image: url("path/to/images/gym.jpeg");
-}
+
+  background-size: contain;
   font-family: Arial, sans-serif;
   font-weight: 600;
   font-size: 20px;
+  background-color: rgba(12, 12, 231, 0.644);
 }
 nav{
     padding: 30px 20px 30px 20px;
@@ -39,7 +40,7 @@ header h1 {
 
 /* Call to Action Styles */
 section{
-  background-color: #ff6600;
+
   padding: 20px;
  
 }
@@ -53,10 +54,11 @@ section{
   background-color: #333;
   border-radius: 4px;
   transition: background-color 0.3s ease;
-}
+  transform: translateY(10);
+ }
 
- a:hover {
-  background-color: #555;
+ a:hover{
+  background-color:#555;
 }
 
 /* Footer Styles */
