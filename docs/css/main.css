@@ -72,3 +72,8 @@ footer {
 footer p {
   margin: 0;
 }
+.list{
+  display: flex;
+  justify-content: flex-start;
+  margin: 0 auto;
+}
