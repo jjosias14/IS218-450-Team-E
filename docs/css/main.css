@@ -9,7 +9,9 @@ body {
   background-color: #08223E; /* Darker blue */
   color: #ffffff;
 }
-
+p{
+  padding-bottom: 30px;
+}
 /* Navigation */
 nav {
   display: flex; /* Display items in a single line */
