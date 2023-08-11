@@ -84,3 +84,2733 @@ video{
   transform: translateX(1000px); 
   align-content: center;
 }
+/*figma CSS*/
+/* Section/Features/Multi/78 */
+
+position: relative;
+width: 1376px;
+height: 1745px;
+
+/* Colour/Background Light Grey */
+background: #FBFBFD;
+
+
+/* Title */
+
+position: absolute;
+left: 5.62%;
+right: 43.89%;
+top: 3.16%;
+bottom: 87.38%;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 600;
+font-size: 60px;
+line-height: 48px;
+/* or 80% */
+
+/* Colour/Main/Grey/900 */
+color: #141719;
+
+
+
+/* *Effective Date: August 2023* Thank you for choosing to be a part of Powerhouse Gym. We are committed to protecting your personal information and your right to privacy. This Privacy Policy describes our practices regarding the collection, use, and disclosure of information that we collect from you when you use our gym facilities, services, website, and mobile applications (collectively referred to as the "Services"). By using our Services, you consent to the practices described in this Privacy Policy. Please take a moment to review this Privacy Policy carefully. If you do not agree with our practices, please do not use our Services. **Information We Collect** We collect various types of information when you use our Services, including: 1. **Personal Information:** We may collect personal information such as your name, email address, phone number, date of birth, and billing information when you sign up for our gym memberships or services. */
+
+position: absolute;
+left: 5.31%;
+right: 55.81%;
+top: 8.6%;
+bottom: 16.91%;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 25px;
+line-height: 30px;
+/* or 120% */
+
+color: #000000;
+
+
+
+/* 2. **Health Information:** In order to provide you with safe and appropriate services, we may collect health-related information such as medical history, fitness goals, and any relevant health conditions. This information will be treated with utmost confidentiality and will only be used to ensure your well-being while using our facilities. 3. **Usage Information:** We may collect information about how you interact with our website and mobile applications, including your IP address, browser type, operating system, the pages you visit, and actions you take. 4. **Payment Information:** When you make payments for our services, we collect payment card information, billing address, and other relevant payment details. This information is securely processed by our third-party payment processors. Your Choices You have the right to access, correct, and delete your personal information. You can also manage your communication preferences and opt-out of receiving certain communications from us. Please contact us at [email address] for assistance with these requests. */
+
+position: absolute;
+left: 49.56%;
+right: 4.12%;
+top: 13.75%;
+bottom: 0.88%;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 25px;
+line-height: 26px;
+/* or 104% */
+
+color: #000000;
+
+
+
+/* footer */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+gap: 10px;
+isolation: isolate;
+
+position: absolute;
+width: 1403px;
+left: calc(50% - 1403px/2 + 13.5px);
+top: 88.28%;
+bottom: 0%;
+
+
+
+/* Rectangle */
+
+width: 1403px;
+height: 204.63px;
+
+background: #F4F6FF;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+z-index: 0;
+
+
+/* Element/Button/Small/Filled */
+
+position: absolute;
+left: 80.97%;
+right: 11.46%;
+top: 31.02%;
+bottom: 56.94%;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+z-index: 1;
+
+
+/* BG */
+
+position: absolute;
+left: 0px;
+right: 0.2px;
+top: 0px;
+bottom: -0.37px;
+
+/* Colour/Main/Blue/800 */
+background: #111B47;
+border-radius: 2px;
+
+
+/* Button Label */
+
+position: absolute;
+height: 18px;
+left: 0px;
+right: 0.2px;
+top: calc(50% - 18px/2 - 0.32px);
+
+/* Medium 12 */
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 500;
+font-size: 12px;
+line-height: 18px;
+/* identical to box height, or 150% */
+text-align: center;
+
+/* Colour/Secondary/White 100 (general) */
+color: #FFFFFF;
+
+
+
+/* © */
+
+position: absolute;
+left: 1.71%;
+right: 77.91%;
+top: 64.8%;
+bottom: 24.92%;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 500;
+font-size: 28px;
+line-height: 24px;
+/* or 86% */
+
+color: #0F0F10;
+
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+flex-grow: 0;
+z-index: 2;
+
+
+/* Home */
+
+position: absolute;
+left: 2.94%;
+right: 90.31%;
+top: 13.44%;
+bottom: 47.14%;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 25px;
+line-height: 24px;
+/* or 96% */
+
+color: #000000;
+
+
+/* Inside auto layout */
+flex: none;
+order: 3;
+flex-grow: 0;
+z-index: 3;
+
+
+/* About */
+
+position: absolute;
+left: 11.87%;
+right: 80.63%;
+top: 13.44%;
+bottom: 47.14%;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 25px;
+line-height: 24px;
+/* or 96% */
+
+color: #091133;
+
+
+/* Inside auto layout */
+flex: none;
+order: 4;
+flex-grow: 0;
+z-index: 4;
+
+
+/* Contact */
+
+position: absolute;
+left: 20.81%;
+right: 72.81%;
+top: 13.44%;
+bottom: 47.14%;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 25px;
+line-height: 24px;
+/* or 96% */
+
+color: #101011;
+
+
+/* Inside auto layout */
+flex: none;
+order: 5;
+flex-grow: 0;
+z-index: 5;
+
+
+/* Icon/Social/Instagram */
+
+position: absolute;
+left: 87.43%;
+right: 11.46%;
+top: 75.93%;
+bottom: 16.67%;
+
+
+/* Inside auto layout */
+flex: none;
+order: 6;
+flex-grow: 0;
+z-index: 6;
+
+
+/* Combined Shape */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+background: #B0B8BC;
+
+
+/* Shape */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+background: #000000;
+
+
+/* Path */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+
+
+/* Path */
+
+position: absolute;
+left: 9.37%;
+right: 9.38%;
+top: 9.37%;
+bottom: 9.38%;
+
+
+
+/* Shape */
+
+position: absolute;
+left: 25%;
+right: 25%;
+top: 25%;
+bottom: 25%;
+
+background: #000000;
+
+
+/* Path */
+
+position: absolute;
+left: 25%;
+right: 25%;
+top: 25%;
+bottom: 25%;
+
+
+
+/* Path */
+
+position: absolute;
+left: 34.37%;
+right: 34.38%;
+top: 34.37%;
+bottom: 34.38%;
+
+
+
+/* Oval */
+
+position: absolute;
+left: 73.54%;
+right: 19.79%;
+top: 19.79%;
+bottom: 73.54%;
+
+background: #000000;
+
+
+/* Icon/Social/Instagram Copy */
+
+position: absolute;
+left: 84.24%;
+right: 14.65%;
+top: 75.93%;
+bottom: 16.67%;
+
+
+/* Inside auto layout */
+flex: none;
+order: 7;
+flex-grow: 0;
+z-index: 7;
+
+
+/* Shape */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 16.67%;
+bottom: 14.58%;
+
+background: #B0B8BC;
+
+
+/* Path */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 16.67%;
+bottom: 14.58%;
+
+
+
+/* Path */
+
+position: absolute;
+left: 37.5%;
+right: 31.25%;
+top: 32.29%;
+bottom: 30.21%;
+
+
+
+/* Icon/Social/Instagram Copy 2 */
+
+position: absolute;
+left: 81.04%;
+right: 17.85%;
+top: 75.93%;
+bottom: 16.67%;
+
+
+/* Inside auto layout */
+flex: none;
+order: 8;
+flex-grow: 0;
+z-index: 8;
+
+
+/* Path */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 8.33%;
+bottom: 10.42%;
+
+background: #B0B8BC;
+
+
+/* Icon/Social/Instagram Copy 3 */
+
+position: absolute;
+left: 77.85%;
+right: 21.04%;
+top: 75.93%;
+bottom: 16.67%;
+
+
+/* Inside auto layout */
+flex: none;
+order: 9;
+flex-grow: 0;
+z-index: 9;
+
+
+/* Combined Shape */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+background: #B0B8BC;
+
+
+/* Rectangle */
+
+position: absolute;
+left: 0%;
+right: 77.64%;
+top: 31.25%;
+bottom: 0%;
+
+background: #000000;
+
+
+/* Path */
+
+position: absolute;
+left: 31.25%;
+right: 0%;
+top: 31.25%;
+bottom: 0%;
+
+background: #000000;
+
+
+/* Oval */
+
+position: absolute;
+left: 0%;
+right: 78.12%;
+top: 0%;
+bottom: 78.12%;
+
+background: #000000;
+
+
+/* Icon/Social/Instagram Copy 4 */
+
+position: absolute;
+left: 74.65%;
+right: 24.24%;
+top: 75.93%;
+bottom: 16.67%;
+
+
+/* Inside auto layout */
+flex: none;
+order: 10;
+flex-grow: 0;
+z-index: 10;
+
+
+/* Path */
+
+position: absolute;
+left: 25%;
+right: 25%;
+top: 0%;
+bottom: 0%;
+
+background: #B0B8BC;
+
+
+/* Rectangle */
+
+position: absolute;
+left: 11.46%;
+right: 11.46%;
+top: 64.35%;
+bottom: 35.19%;
+
+background: #141515;
+
+/* Inside auto layout */
+flex: none;
+order: 11;
+flex-grow: 0;
+z-index: 11;
+
+
+/* Landing Page - 2 */
+
+position: relative;
+width: 1600px;
+height: 5000px;
+
+background: url(Checker.png);
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+
+
+/* image 1 */
+
+position: absolute;
+width: 801px;
+height: 1162px;
+left: 754px;
+top: 2560px;
+
+background: url(image.png);
+
+
+/* Hero */
+
+position: absolute;
+left: -3.89%;
+right: 2.81%;
+top: -1.3%;
+bottom: 75.42%;
+
+
+
+/* Mask */
+
+position: absolute;
+left: -3.89%;
+right: 3.61%;
+top: -1.3%;
+bottom: 79.15%;
+
+
+
+/* Hero-Content */
+
+position: absolute;
+left: 2.31%;
+right: 54.58%;
+top: 6.22%;
+bottom: 82.05%;
+
+
+
+/* Text-Block/Hero/Title-Body-ActionRow/2-Line-Title */
+
+position: absolute;
+left: 2.31%;
+right: 54.58%;
+top: 6.22%;
+bottom: 84.98%;
+
+
+
+/* Title */
+
+position: absolute;
+height: 132px;
+left: -0.12px;
+right: -0.16px;
+top: -20px;
+
+/* Medium 50 */
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 500;
+font-size: 50px;
+line-height: 66px;
+/* or 132% */
+letter-spacing: 1px;
+
+/* Colour/Main/Grey/900 */
+color: #141719;
+
+
+
+/* Body */
+
+position: absolute;
+height: 192px;
+left: -1.12px;
+right: -0.16px;
+top: 154px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 25px;
+line-height: 26px;
+/* or 104% */
+
+color: #131212;
+
+
+
+/* Element/Button/Large/Filled */
+
+position: absolute;
+left: 2.31%;
+right: 82.57%;
+top: 16.95%;
+bottom: 82.05%;
+
+
+
+/* BG */
+
+position: absolute;
+left: 0px;
+right: -0.15px;
+top: 0px;
+bottom: 0.15px;
+
+background: #6E7F89;
+border-radius: 2px;
+
+
+/* Button Label */
+
+position: absolute;
+height: 26px;
+left: 0px;
+right: -0.15px;
+top: calc(50% - 26px/2 - 0.07px);
+
+/* Medium 16 */
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 26px;
+/* identical to box height, or 162% */
+text-align: center;
+
+/* Colour/Secondary/White 100 (general) */
+color: #FFFFFF;
+
+
+
+/* Element/Button/Large/Filled Copy */
+
+position: absolute;
+left: 19.83%;
+right: 65.06%;
+top: 16.95%;
+bottom: 82.05%;
+
+
+
+/* BG */
+
+box-sizing: border-box;
+
+position: absolute;
+left: 0px;
+right: -0.15px;
+top: 0px;
+bottom: 0.15px;
+
+/* Colour/Main/Grey/900 */
+border: 2px solid #141719;
+border-radius: 2px;
+
+
+/* Button Label */
+
+position: absolute;
+height: 26px;
+left: 0px;
+right: -0.15px;
+top: calc(50% - 26px/2 + 1.93px);
+
+/* Medium 16 */
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 26px;
+/* identical to box height, or 162% */
+text-align: center;
+
+/* Colour/Main/Grey/900 */
+color: #141719;
+
+
+
+/* HD-wallpaper-sports-72-fit-fitness-football-gym-love-motivation-sport-training-workout-thumbnail 1 */
+
+position: absolute;
+width: 893px;
+height: 1251px;
+left: 662px;
+top: -22px;
+
+background: url(HD-wallpaper-sports-72-fit-fitness-football-gym-love-motivation-sport-training-workout-thumbnail.jpg);
+
+
+/* Logo/Landie */
+
+position: absolute;
+width: 79px;
+height: 38px;
+left: 702px;
+top: 12px;
+
+
+
+/* Landie */
+
+position: absolute;
+left: 34.88%;
+right: 29.88%;
+top: 0.24%;
+bottom: 97.26%;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 900;
+font-size: 60px;
+line-height: 38px;
+/* or 63% */
+display: flex;
+align-items: center;
+
+background: linear-gradient(90deg, #000000 -18.25%, #D7D9E0 68.35%, rgba(255, 255, 255, 0) 122.7%);
+-webkit-background-clip: text;
+-webkit-text-fill-color: transparent;
+background-clip: text;
+text-fill-color: transparent;
+
+
+
+/* Nav */
+
+position: absolute;
+left: -3.88%;
+right: 3.88%;
+top: -3.26%;
+bottom: 98.7%;
+
+
+
+/* Rectangle */
+
+position: absolute;
+left: -3.88%;
+right: 3.88%;
+top: -3.26%;
+bottom: 101.96%;
+
+
+
+/* Home */
+
+position: absolute;
+height: 24px;
+left: 3.69%;
+right: 89.75%;
+top: calc(50% - 24px/2 - 2447px);
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 25px;
+line-height: 24px;
+/* identical to box height, or 96% */
+
+/* Colour/Main/Grey/900 */
+color: #141719;
+
+
+
+/* About */
+
+position: absolute;
+height: 24px;
+left: 14.38%;
+right: 80.62%;
+top: calc(50% - 24px/2 - 2447px);
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 25px;
+line-height: 24px;
+/* identical to box height, or 96% */
+
+/* Colour/Main/Grey/900 */
+color: #141719;
+
+
+
+/* Contact */
+
+position: absolute;
+height: 24px;
+left: 22.94%;
+right: 68.75%;
+top: calc(50% - 24px/2 - 2447px);
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 25px;
+line-height: 24px;
+/* identical to box height, or 96% */
+
+/* Colour/Main/Grey/900 */
+color: #141719;
+
+
+
+/* Element/Button/Small/Filled */
+
+position: absolute;
+left: 73.56%;
+right: 15.33%;
+top: -2.87%;
+bottom: 102.31%;
+
+
+
+/* BG */
+
+position: absolute;
+left: 0px;
+right: -0.22px;
+top: 0px;
+bottom: 0.09px;
+
+/* Colour/Main/Grey/500 */
+background: #76848C;
+border-radius: 2px;
+
+
+/* Button Label */
+
+position: absolute;
+height: 18px;
+left: 0px;
+right: -0.22px;
+top: calc(50% - 18px/2 - 0.04px);
+
+/* Medium 12 */
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 500;
+font-size: 12px;
+line-height: 18px;
+/* identical to box height, or 150% */
+text-align: center;
+
+/* Colour/Secondary/White 100 (general) */
+color: #FFFFFF;
+
+
+
+/* intro */
+
+position: absolute;
+left: -0.28%;
+right: 0.28%;
+top: 40.02%;
+bottom: 47.69%;
+
+
+
+/* Rectangle */
+
+position: absolute;
+left: -0.28%;
+right: 0.28%;
+top: 40.02%;
+bottom: 47.69%;
+
+
+
+/* undraw_happy_news_hxmt */
+
+position: absolute;
+left: 13.26%;
+right: 53.4%;
+top: 42.66%;
+bottom: 50.51%;
+
+
+
+/* Path */
+
+position: absolute;
+left: 17.08%;
+right: 76.81%;
+top: 45.17%;
+bottom: 54.36%;
+
+background: #F2F2F2;
+
+
+/* Oval */
+
+position: absolute;
+left: 38.68%;
+right: 60.62%;
+top: 45.62%;
+bottom: 54.16%;
+
+background: #FF6584;
+
+
+/* Rectangle */
+
+position: absolute;
+left: 36.46%;
+right: 59.59%;
+top: 47.44%;
+bottom: 52.52%;
+
+background: #3F3D56;
+transform: matrix(0.67, -0.74, 0.76, 0.65, 0, 0);
+
+
+/* Oval */
+
+position: absolute;
+left: 38.61%;
+right: 60.28%;
+top: 46.33%;
+bottom: 53.32%;
+
+background: #3F3D56;
+
+
+/* Path */
+
+position: absolute;
+left: 37.22%;
+right: 62.08%;
+top: 46.38%;
+bottom: 52.91%;
+
+background: #3F3D56;
+
+
+/* Path */
+
+position: absolute;
+left: 18.61%;
+right: 73.82%;
+top: 45.36%;
+bottom: 50.56%;
+
+background: #3F3D56;
+
+
+/* Path */
+
+position: absolute;
+left: 13.26%;
+right: 73.96%;
+top: 47%;
+bottom: 50.51%;
+
+background: #111B47;
+
+
+/* Path */
+
+position: absolute;
+left: 30.21%;
+right: 56.94%;
+top: 47.02%;
+bottom: 50.51%;
+
+background: #3F3D56;
+
+
+/* Path */
+
+position: absolute;
+left: 30.07%;
+right: 62.29%;
+top: 45.4%;
+bottom: 50.53%;
+
+background: #111B47;
+
+
+/* Path */
+
+position: absolute;
+left: 28.75%;
+right: 69.31%;
+top: 44.35%;
+bottom: 55.07%;
+
+background: #2F2E41;
+
+
+/* Oval */
+
+position: absolute;
+left: 25.97%;
+right: 69.51%;
+top: 43.63%;
+bottom: 54.96%;
+
+background: #2F2E41;
+
+
+/* Path */
+
+position: absolute;
+left: 22.57%;
+right: 72.22%;
+top: 44.41%;
+bottom: 53.95%;
+
+background: #FFB8B8;
+
+
+/* Oval */
+
+position: absolute;
+left: 26.6%;
+right: 70.69%;
+top: 44.22%;
+bottom: 54.94%;
+
+background: #FFB8B8;
+
+
+/* Path */
+
+position: absolute;
+left: 27.22%;
+right: 69.03%;
+top: 44.67%;
+bottom: 54.23%;
+
+background: #FFB8B8;
+
+
+/* Path */
+
+position: absolute;
+left: 23.82%;
+right: 67.5%;
+top: 45.04%;
+bottom: 50.51%;
+
+background: #2F2E41;
+
+
+/* Path */
+
+position: absolute;
+left: 30.49%;
+right: 67.71%;
+top: 45.17%;
+bottom: 51.7%;
+
+background: #FFB8B8;
+
+
+/* Oval */
+
+position: absolute;
+left: 26.67%;
+right: 71.04%;
+top: 44.02%;
+bottom: 55.48%;
+
+background: #2F2E41;
+
+
+/* Oval */
+
+position: absolute;
+left: 28.54%;
+right: 69.24%;
+top: 43.37%;
+bottom: 55.94%;
+
+background: #2F2E41;
+
+
+/* Path */
+
+position: absolute;
+left: 29.31%;
+right: 68.47%;
+top: 43.65%;
+bottom: 55.98%;
+
+background: #2F2E41;
+
+
+/* Oval */
+
+position: absolute;
+left: 29.07%;
+right: 70.74%;
+top: 44.44%;
+bottom: 55.43%;
+
+background: #FFB8B8;
+transform: matrix(0.97, -0.23, 0.24, 0.97, 0, 0);
+
+
+/* Oval */
+
+position: absolute;
+left: 29.17%;
+right: 70.69%;
+top: 44.52%;
+bottom: 55.44%;
+
+background: #F2F2F2;
+
+
+/* Shape */
+
+position: absolute;
+left: 16.04%;
+right: 83.06%;
+top: 45.71%;
+bottom: 54.01%;
+
+background: #3F3D56;
+
+
+/* Path */
+
+position: absolute;
+left: 16.04%;
+right: 83.06%;
+top: 45.71%;
+bottom: 54.01%;
+
+
+
+/* Path */
+
+position: absolute;
+left: 16.12%;
+right: 83.13%;
+top: 45.73%;
+bottom: 54.04%;
+
+
+
+/* Shape */
+
+position: absolute;
+left: 34.38%;
+right: 64.65%;
+top: 44.69%;
+bottom: 55.01%;
+
+background: #3F3D56;
+
+
+/* Path */
+
+position: absolute;
+left: 34.38%;
+right: 64.65%;
+top: 44.69%;
+bottom: 55.01%;
+
+
+
+/* Path */
+
+position: absolute;
+left: 34.45%;
+right: 64.73%;
+top: 44.71%;
+bottom: 55.03%;
+
+
+
+/* Path */
+
+position: absolute;
+left: 40.49%;
+right: 53.4%;
+top: 46.1%;
+bottom: 53.43%;
+
+background: #F2F2F2;
+
+
+/* Path */
+
+position: absolute;
+left: 35.28%;
+right: 58.61%;
+top: 43.83%;
+bottom: 55.7%;
+
+background: #F2F2F2;
+
+
+/* Path */
+
+position: absolute;
+left: 18.19%;
+right: 75.97%;
+top: 42.85%;
+bottom: 55.4%;
+
+background: #F2F2F2;
+
+
+/* Path */
+
+position: absolute;
+left: 18.54%;
+right: 76.04%;
+top: 43.2%;
+bottom: 55.55%;
+
+background: #000000;
+mix-blend-mode: normal;
+opacity: 0.1;
+
+
+/* Rectangle */
+
+position: absolute;
+left: 18.74%;
+right: 77.32%;
+top: 43.93%;
+bottom: 54.79%;
+
+background: #111B47;
+border-radius: 8.18596px;
+transform: matrix(0.47, -0.88, 0.89, 0.45, 0, 0);
+
+
+/* Path */
+
+position: absolute;
+left: 18.75%;
+right: 76.67%;
+top: 43.31%;
+bottom: 55.5%;
+
+background: #000000;
+mix-blend-mode: normal;
+opacity: 0.1;
+
+
+/* Path */
+
+position: absolute;
+left: 18.12%;
+right: 75.97%;
+top: 43.18%;
+bottom: 55.37%;
+
+background: #F2F2F2;
+
+
+/* Rectangle */
+
+position: absolute;
+left: 20.72%;
+right: 78.16%;
+top: 42.97%;
+bottom: 56.98%;
+
+background: #F2F2F2;
+transform: matrix(0.89, 0.45, -0.47, 0.88, 0, 0);
+
+
+/* Rectangle */
+
+position: absolute;
+left: 20.38%;
+right: 76.3%;
+top: 43.12%;
+bottom: 56.85%;
+
+background: #F2F2F2;
+transform: matrix(0.89, 0.45, -0.47, 0.88, 0, 0);
+
+
+/* Rectangle */
+
+position: absolute;
+left: 20.24%;
+right: 76.44%;
+top: 43.2%;
+bottom: 56.77%;
+
+background: #F2F2F2;
+transform: matrix(0.89, 0.45, -0.47, 0.88, 0, 0);
+
+
+/* Rectangle */
+
+position: absolute;
+left: 20.1%;
+right: 76.58%;
+top: 43.29%;
+bottom: 56.68%;
+
+background: #F2F2F2;
+transform: matrix(0.89, 0.45, -0.47, 0.88, 0, 0);
+
+
+/* Oval */
+
+position: absolute;
+left: 20.07%;
+right: 79.01%;
+top: 42.92%;
+bottom: 56.78%;
+
+background: #FFFFFF;
+transform: matrix(0.47, -0.88, 0.89, 0.45, 0, 0);
+
+
+/* Shape */
+
+position: absolute;
+left: 20.14%;
+right: 78.75%;
+top: 42.68%;
+bottom: 56.97%;
+
+background: #57B894;
+
+
+/* Path */
+
+position: absolute;
+left: 20.14%;
+right: 78.75%;
+top: 42.68%;
+bottom: 56.97%;
+
+
+
+/* Path */
+
+position: absolute;
+left: 20.33%;
+right: 78.85%;
+top: 42.79%;
+bottom: 57.08%;
+
+
+
+/* intro copy */
+
+position: absolute;
+left: -0.28%;
+right: 0.28%;
+top: 52.31%;
+bottom: 35.39%;
+
+
+
+/* Rectangle */
+
+position: absolute;
+left: -0.28%;
+right: 0.28%;
+top: 52.31%;
+bottom: 35.39%;
+
+
+
+/* Text-Block/Section/Large/Title-Body/2-Line-Title */
+
+position: absolute;
+left: 57.36%;
+right: 11.74%;
+top: 56.03%;
+bottom: 39.04%;
+
+
+
+/* undraw_mobile_login_ikmv + Element/Card/Info-Card/Medium/Icon-Top-Left/2-Line-Title Copy 2 + Element/Card/Info-Card/Medium/Icon-Top-Left/2-Line-Title Copy 3 + Text-Block/Section/Large/Title-Body/2-Line-Title Mask */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 23.98%;
+bottom: 59.98%;
+
+
+
+/* Mask */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 23.98%;
+bottom: 59.98%;
+
+
+
+/* Mask */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 23.98%;
+bottom: 59.98%;
+
+background: #000000;
+
+
+/* Text-Block/Section/Large/Title-Body/2-Line-Title */
+
+position: absolute;
+left: 9.5%;
+right: 55.75%;
+top: 28.44%;
+bottom: 62%;
+
+
+
+/* Body */
+
+position: absolute;
+height: 192px;
+left: -41px;
+right: 41px;
+top: 51px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 25px;
+line-height: 50px;
+/* or 200% */
+
+color: #F2F2F2;
+
+
+
+/* Title */
+
+position: absolute;
+height: 48px;
+left: 135px;
+right: 765px;
+top: 1316px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 600;
+font-size: 50px;
+line-height: 48px;
+/* identical to box height, or 96% */
+
+background: linear-gradient(90deg, #A3A5AA 9.26%, rgba(176, 179, 191, 0.352534) 55.68%, rgba(183, 187, 203, 0) 80.95%, rgba(244, 245, 248, 0) 148.26%);
+-webkit-background-clip: text;
+-webkit-text-fill-color: transparent;
+background-clip: text;
+text-fill-color: transparent;
+
+
+
+/* cta */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 64.46%;
+bottom: 23.08%;
+
+
+
+/* Rectangle */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 65.13%;
+bottom: 23.08%;
+
+
+
+/* undraw_mention_6k5d */
+
+position: absolute;
+left: 9.69%;
+right: 57.75%;
+top: 64.46%;
+bottom: 28.14%;
+
+
+
+/* Oval */
+
+position: absolute;
+left: 11.37%;
+right: 67.56%;
+top: 64.84%;
+bottom: 28.33%;
+
+background: #F2F2F2;
+
+
+/* Path */
+
+position: absolute;
+left: 21.83%;
+right: 69.6%;
+top: 67.21%;
+bottom: 28.59%;
+
+background: #3F3D56;
+
+
+/* Path */
+
+position: absolute;
+left: 12.03%;
+right: 78.09%;
+top: 67.54%;
+bottom: 28.61%;
+
+background: #222F65;
+
+
+/* Path */
+
+position: absolute;
+left: 13.42%;
+right: 78.02%;
+top: 67.21%;
+bottom: 28.59%;
+
+border: 2px solid #3F3D56;
+
+
+/* Path */
+
+position: absolute;
+left: 18.91%;
+right: 78.09%;
+top: 68.73%;
+bottom: 28.54%;
+
+background: #000000;
+mix-blend-mode: normal;
+opacity: 0.1;
+
+
+/* Path */
+
+position: absolute;
+left: 19.35%;
+right: 74.58%;
+top: 66.45%;
+bottom: 28.54%;
+
+background: #222F65;
+
+
+/* Path */
+
+position: absolute;
+left: 22.05%;
+right: 77.29%;
+top: 66.5%;
+bottom: 28.59%;
+
+border: 2px solid #3F3D56;
+
+
+/* Oval */
+
+position: absolute;
+left: 9.69%;
+right: 57.75%;
+top: 71.2%;
+bottom: 28.14%;
+
+background: #3F3D56;
+
+
+/* Path */
+
+position: absolute;
+left: 12.38%;
+right: 87.59%;
+top: 70.08%;
+bottom: 28.59%;
+
+background: #3F3D56;
+border: 2px solid #3F3D56;
+
+
+/* Oval */
+
+position: absolute;
+left: 11.81%;
+right: 87.02%;
+top: 69.89%;
+bottom: 29.73%;
+
+background: #3F3D56;
+
+
+/* Path */
+
+position: absolute;
+left: 10.64%;
+right: 87.61%;
+top: 70.39%;
+bottom: 29.09%;
+
+background: #3F3D56;
+
+
+/* Path */
+
+position: absolute;
+left: 26.36%;
+right: 73.61%;
+top: 65.55%;
+bottom: 30.75%;
+
+background: #3F3D56;
+border: 2px solid #3F3D56;
+
+
+/* Oval */
+
+position: absolute;
+left: 25.57%;
+right: 72.82%;
+top: 65.31%;
+bottom: 34.16%;
+
+background: #3F3D56;
+
+
+/* Path */
+
+position: absolute;
+left: 23.96%;
+right: 73.63%;
+top: 65.91%;
+bottom: 33.38%;
+
+background: #3F3D56;
+
+
+/* Path */
+
+position: absolute;
+left: 30.83%;
+right: 61.19%;
+top: 67.21%;
+bottom: 28.78%;
+
+background: #2F2E41;
+
+
+/* Path */
+
+position: absolute;
+left: 35.59%;
+right: 62.87%;
+top: 70.91%;
+bottom: 28.49%;
+
+background: #2F2E41;
+
+
+/* Path */
+
+position: absolute;
+left: 32.96%;
+right: 65.51%;
+top: 69.23%;
+bottom: 30.15%;
+
+background: #2F2E41;
+
+
+/* Path */
+
+position: absolute;
+left: 37.2%;
+right: 61.56%;
+top: 65.67%;
+bottom: 33.74%;
+
+background: #9F616A;
+
+
+/* Oval */
+
+position: absolute;
+left: 36.18%;
+right: 60.6%;
+top: 64.77%;
+bottom: 34.19%;
+
+background: #2F2E41;
+
+
+/* Oval */
+
+position: absolute;
+left: 37.27%;
+right: 61.41%;
+top: 64.58%;
+bottom: 34.99%;
+
+background: #2F2E41;
+
+
+/* Path */
+
+position: absolute;
+left: 36.91%;
+right: 62.36%;
+top: 64.46%;
+bottom: 35.11%;
+
+background: #2F2E41;
+
+
+/* Oval */
+
+position: absolute;
+left: 36.62%;
+right: 61.19%;
+top: 65.2%;
+bottom: 34.09%;
+
+background: #9F616A;
+
+
+/* Path */
+
+position: absolute;
+left: 35.3%;
+right: 59.73%;
+top: 66%;
+bottom: 32.41%;
+
+background: #D0CDE1;
+
+
+/* Path */
+
+position: absolute;
+left: 30.69%;
+right: 67.41%;
+top: 67.76%;
+bottom: 31.84%;
+
+background: #9F616A;
+
+
+/* Path */
+
+position: absolute;
+left: 38.23%;
+right: 60.6%;
+top: 67.43%;
+bottom: 32.31%;
+
+background: #9F616A;
+
+
+/* Path */
+
+position: absolute;
+left: 39.03%;
+right: 58.55%;
+top: 66.29%;
+bottom: 32.24%;
+
+background: #D0CDE1;
+
+
+/* Path */
+
+position: absolute;
+left: 32.01%;
+right: 63.9%;
+top: 66.26%;
+bottom: 32.1%;
+
+background: #D0CDE1;
+
+
+/* Oval */
+
+position: absolute;
+left: 36.69%;
+right: 61.04%;
+top: 64.91%;
+bottom: 34.66%;
+
+background: #2F2E41;
+
+
+/* Rectangle */
+
+position: absolute;
+left: 30.32%;
+right: 64.48%;
+top: 69.75%;
+bottom: 28.57%;
+
+background: #222F65;
+
+
+/* Pricing */
+
+position: absolute;
+left: 3.19%;
+right: 3.87%;
+top: 53.56%;
+bottom: -5.28%;
+
+
+
+/* Element/Button/Medium/Filled */
+
+position: absolute;
+left: 48.25%;
+right: 39.74%;
+top: 104.63%;
+bottom: -5.28%;
+
+
+
+/* BG */
+
+position: absolute;
+left: 0px;
+right: 0.14px;
+top: 0px;
+bottom: -0.33px;
+
+/* Colour/Main/Blue/800 */
+background: #111B47;
+border-radius: 2px;
+
+
+/* Button Label */
+
+position: absolute;
+height: 24px;
+left: 0px;
+right: 0.14px;
+top: calc(50% - 24px/2 - 0.33px);
+
+/* Medium 14 */
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 500;
+font-size: 14px;
+line-height: 24px;
+/* identical to box height, or 171% */
+text-align: center;
+
+/* Colour/Secondary/White 100 (general) */
+color: #FFFFFF;
+
+
+
+/* Text-Block/Section/Large/Title-Body/2-Line-Title */
+
+position: absolute;
+left: 53.5%;
+right: 3.87%;
+top: 53.56%;
+bottom: 42.6%;
+
+
+
+/* Title */
+
+position: absolute;
+height: 111px;
+left: 0px;
+right: 0.14px;
+top: -56px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 700;
+font-size: 50px;
+line-height: 48px;
+/* or 96% */
+text-align: center;
+
+background: linear-gradient(90deg, #2D396C 0.01%, rgba(139, 153, 214, 0) 189.05%, rgba(97, 109, 164, 0) 382.05%);
+-webkit-background-clip: text;
+-webkit-text-fill-color: transparent;
+background-clip: text;
+text-fill-color: transparent;
+
+
+
+/* Element/Button/Medium/Filled */
+
+position: absolute;
+left: 58.5%;
+right: 8.94%;
+top: 69.62%;
+bottom: 27.66%;
+
+transform: matrix(1, 0, 0, -1, 0, 0);
+
+
+/* BG */
+
+position: absolute;
+left: 0px;
+right: 0px;
+top: 136px;
+bottom: -136px;
+
+background: #2D365C;
+transform: matrix(1, 0, 0, -1, 0, 0);
+
+
+/* Lvl3. 24.99 */
+
+position: absolute;
+width: 303px;
+height: 67px;
+left: 109px;
+top: 27px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 700;
+font-size: 50px;
+line-height: 48px;
+/* or 96% */
+text-align: center;
+
+color: #FFFFFF;
+
+
+
+/* monthly */
+
+position: absolute;
+width: 222px;
+height: 57px;
+left: 310px;
+top: 35px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 700;
+font-size: 20px;
+line-height: 48px;
+/* or 240% */
+text-align: center;
+
+color: #FFFFFF;
+
+
+
+/* image 3 */
+
+position: absolute;
+left: 3.19%;
+right: 76.69%;
+top: 87.28%;
+bottom: 6.86%;
+
+background: url(image.png);
+
+
+/* image 5 */
+
+position: absolute;
+left: 55.56%;
+right: 6.75%;
+top: 83.46%;
+bottom: 11.32%;
+
+background: url(image.png);
+
+
+/* image 4 */
+
+position: absolute;
+left: 55.56%;
+right: 6.75%;
+top: 76.02%;
+bottom: 17.26%;
+
+background: url(image.png);
+
+
+/* Nav */
+
+position: absolute;
+left: 11.31%;
+right: -11.31%;
+top: 72.32%;
+bottom: 23.12%;
+
+
+
+/* Rectangle */
+
+position: absolute;
+left: 11.31%;
+right: -11.31%;
+top: 72.32%;
+bottom: 26.38%;
+
+
+
+/* Home */
+
+position: absolute;
+height: 24px;
+left: 18.88%;
+right: 74.56%;
+top: calc(50% - 24px/2 + 1332px);
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 25px;
+line-height: 24px;
+/* identical to box height, or 96% */
+
+/* Colour/Background Light Grey */
+color: #FBFBFD;
+
+
+
+/* About */
+
+position: absolute;
+height: 24px;
+left: 29.56%;
+right: 65.44%;
+top: calc(50% - 24px/2 + 1332px);
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 25px;
+line-height: 24px;
+/* identical to box height, or 96% */
+
+/* Colour/Background Light Grey */
+color: #FBFBFD;
+
+
+
+/* Contact */
+
+position: absolute;
+height: 24px;
+left: 38.12%;
+right: 53.56%;
+top: calc(50% - 24px/2 + 1332px);
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 25px;
+line-height: 24px;
+/* identical to box height, or 96% */
+
+/* Colour/Background Light Grey */
+color: #FBFBFD;
+
+
+
+/* Element/Button/Small/Filled */
+
+position: absolute;
+left: 88.74%;
+right: 0.15%;
+top: 72.71%;
+bottom: 26.73%;
+
+
+
+/* BG */
+
+position: absolute;
+left: 0px;
+right: -0.22px;
+top: 0px;
+bottom: 0.09px;
+
+/* Colour/Main/Grey/500 */
+background: #76848C;
+border-radius: 2px;
+
+
+/* Button Label */
+
+position: absolute;
+height: 18px;
+left: 0px;
+right: -0.22px;
+top: calc(50% - 18px/2 - 0.04px);
+
+/* Medium 12 */
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 500;
+font-size: 12px;
+line-height: 18px;
+/* identical to box height, or 150% */
+text-align: center;
+
+/* Colour/Secondary/White 100 (general) */
+color: #FFFFFF;
+
+
+
+/* Element/Button/Medium/Filled */
+
+position: absolute;
+left: 58.62%;
+right: 8.81%;
+top: 59.74%;
+bottom: 37.54%;
+
+transform: matrix(1, 0, 0, -1, 0, 0);
+
+
+/* BG */
+
+position: absolute;
+left: 0px;
+right: 0px;
+top: 136px;
+bottom: -136px;
+
+background: #2D365C;
+border-radius: 2px;
+transform: matrix(1, 0, 0, -1, 0, 0);
+
+
+/* Lvl1. 12.99 */
+
+position: absolute;
+width: 303px;
+height: 67px;
+left: 101px;
+top: 37px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 700;
+font-size: 50px;
+line-height: 48px;
+/* or 96% */
+text-align: center;
+
+color: #FFFFFF;
+
+
+
+/* monthly */
+
+position: absolute;
+width: 222px;
+height: 57px;
+left: 305px;
+top: 47px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 700;
+font-size: 20px;
+line-height: 48px;
+/* or 240% */
+text-align: center;
+
+color: #FFFFFF;
+
+
+
+/* footer */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 94.32%;
+bottom: 0%;
+
+
+
+/* Rectangle */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 95.33%;
+bottom: 0%;
+
+background: #F4F6FF;
+
+
+/* Element/Button/Small/Filled */
+
+position: absolute;
+left: 80.97%;
+right: 11.46%;
+top: 96.78%;
+bottom: 2.66%;
+
+
+
+/* BG */
+
+position: absolute;
+left: 0px;
+right: 0.11px;
+top: 0px;
+bottom: 0.09px;
+
+/* Colour/Main/Blue/800 */
+background: #111B47;
+border-radius: 2px;
+
+
+/* Button Label */
+
+position: absolute;
+height: 18px;
+left: 0px;
+right: 0.11px;
+top: calc(50% - 18px/2 - 0.04px);
+
+/* Medium 12 */
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 500;
+font-size: 12px;
+line-height: 18px;
+/* identical to box height, or 150% */
+text-align: center;
+
+/* Colour/Secondary/White 100 (general) */
+color: #FFFFFF;
+
+
+
+/* © */
+
+position: absolute;
+height: 24px;
+left: 1.12%;
+right: 78.5%;
+top: calc(50% - 24px/2 + 2228px);
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 500;
+font-size: 28px;
+line-height: 24px;
+/* identical to box height, or 86% */
+
+color: #E9ECF6;
+
+
+
+/* Home */
+
+position: absolute;
+height: 92px;
+left: 2.94%;
+right: 90.31%;
+top: calc(50% - 92px/2 + 2344px);
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 25px;
+line-height: 24px;
+/* or 96% */
+
+color: #000000;
+
+
+
+/* About */
+
+position: absolute;
+height: 92px;
+left: 11.88%;
+right: 80.62%;
+top: calc(50% - 92px/2 + 2344px);
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 25px;
+line-height: 24px;
+/* or 96% */
+
+color: #091133;
+
+
+
+/* Contact */
+
+position: absolute;
+height: 92px;
+left: 20.81%;
+right: 72.81%;
+top: calc(50% - 92px/2 + 2344px);
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 25px;
+line-height: 24px;
+/* or 96% */
+
+color: #101011;
+
+
+
+/* Icon/Social/Instagram */
+
+position: absolute;
+left: 87.43%;
+right: 11.46%;
+top: 98.88%;
+bottom: 0.78%;
+
+
+
+/* Combined Shape */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+background: #B0B8BC;
+
+
+/* Shape */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+background: #000000;
+
+
+/* Path */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+
+
+/* Path */
+
+position: absolute;
+left: 9.37%;
+right: 9.38%;
+top: 9.38%;
+bottom: 9.37%;
+
+
+
+/* Shape */
+
+position: absolute;
+left: 25%;
+right: 25%;
+top: 25%;
+bottom: 25%;
+
+background: #000000;
+
+
+/* Path */
+
+position: absolute;
+left: 25%;
+right: 25%;
+top: 25%;
+bottom: 25%;
+
+
+
+/* Path */
+
+position: absolute;
+left: 34.37%;
+right: 34.38%;
+top: 34.37%;
+bottom: 34.38%;
+
+
+
+/* Oval */
+
+position: absolute;
+left: 73.54%;
+right: 19.79%;
+top: 19.79%;
+bottom: 73.54%;
+
+background: #000000;
+
+
+/* Icon/Social/Instagram Copy */
+
+position: absolute;
+left: 84.24%;
+right: 14.65%;
+top: 98.88%;
+bottom: 0.78%;
+
+
+
+/* Shape */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 16.67%;
+bottom: 14.58%;
+
+background: #B0B8BC;
+
+
+/* Path */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 16.67%;
+bottom: 14.58%;
+
+
+
+/* Path */
+
+position: absolute;
+left: 37.5%;
+right: 31.25%;
+top: 32.29%;
+bottom: 30.21%;
+
+
+
+/* Icon/Social/Instagram Copy 2 */
+
+position: absolute;
+left: 81.04%;
+right: 17.85%;
+top: 98.88%;
+bottom: 0.78%;
+
+
+
+/* Path */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 8.33%;
+bottom: 10.42%;
+
+background: #B0B8BC;
+
+
+/* Icon/Social/Instagram Copy 3 */
+
+position: absolute;
+left: 77.85%;
+right: 21.04%;
+top: 98.88%;
+bottom: 0.78%;
+
+
+
+/* Combined Shape */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+background: #B0B8BC;
+
+
+/* Rectangle */
+
+position: absolute;
+left: 0%;
+right: 77.64%;
+top: 31.25%;
+bottom: 0%;
+
+background: #000000;
+
+
+/* Path */
+
+position: absolute;
+left: 31.25%;
+right: 0%;
+top: 31.25%;
+bottom: 0%;
+
+background: #000000;
+
+
+/* Oval */
+
+position: absolute;
+left: 0%;
+right: 78.12%;
+top: 0%;
+bottom: 78.12%;
+
+background: #000000;
+
+
+/* Icon/Social/Instagram Copy 4 */
+
+position: absolute;
+left: 74.65%;
+right: 24.24%;
+top: 98.88%;
+bottom: 0.78%;
+
+
+
+/* Path */
+
+position: absolute;
+left: 25%;
+right: 25%;
+top: 0%;
+bottom: 0%;
+
+background: #B0B8BC;
+
+
+/* Rectangle */
+
+position: absolute;
+left: 11.46%;
+right: 11.46%;
+top: 98.34%;
+bottom: 1.64%;
+
+background: #141515;
+
+
+/* Logo/Landie */
+
+position: absolute;
+width: 79px;
+height: 38px;
+left: 680px;
+top: 4473px;
+
+
+
+/* Element/Button/Medium/Filled */
+
+position: absolute;
+left: 58.62%;
+right: 8.81%;
+top: 64.46%;
+bottom: 32.82%;
+
+transform: matrix(1, 0, 0, -1, 0, 0);
+
+
+/* BG */
+
+position: absolute;
+left: 0px;
+right: 0px;
+top: 136px;
+bottom: -136px;
+
+background: #2D365C;
+border-radius: 2px;
+transform: matrix(1, 0, 0, -1, 0, 0);
+
+
+/* Lvl2. 18.99 */
+
+position: absolute;
+width: 303px;
+height: 67px;
+left: 109px;
+top: 34px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 700;
+font-size: 50px;
+line-height: 48px;
+/* or 96% */
+text-align: center;
+
+color: #FFFFFF;
+
+
+
+/* monthly */
+
+position: absolute;
+width: 222px;
+height: 57px;
+left: 311px;
+top: 44px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 700;
+font-size: 20px;
+line-height: 48px;
+/* or 240% */
+text-align: center;
+
+color: #FFFFFF;
+
+
+
+/* Blog */
+
+position: absolute;
+width: 673px;
+height: 173px;
+left: 37px;
+top: 3805px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 700;
+font-size: 80px;
+line-height: 48px;
+/* or 60% */
+
+color: #FFFFFF;
+
+
+
+/* image 2 */
+
+position: absolute;
+left: 3.19%;
+right: 58.56%;
+top: 78.66%;
+bottom: 13.18%;
+
+background: url(image.png);
+
+
+/* image 6 */
+
+position: absolute;
+left: 55.56%;
+right: 7%;
+top: 89.46%;
+bottom: 5.14%;
+
+background: url(image.png);
