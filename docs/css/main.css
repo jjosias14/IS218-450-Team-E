@@ -1,4 +1,4 @@
-/* Reset default margin and padding */
+/* Reset default margin and paddingg */
 body, h1, p {
   margin: 0;
   padding: 0;
@@ -33,7 +33,7 @@ nav a {
   font-weight: bold;
   text-transform: uppercase;
   color: #ffffff;
-  text-decoration: none;
+  text-decoration: none:
   transition: background-color 0.3s ease;
 }
 
