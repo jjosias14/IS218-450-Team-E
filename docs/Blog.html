@@ -1,19 +1,31 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
+  <title>Powerhouse Gym</title>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" href="styles.css">
-    <title>Powerhouse Gym</title>
+    <link rel="stylesheet" href="css/main.css">
 </head>
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-D6YHC921SJ"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-D6YHC921SJ');
+</script>
+
 <body>
     <header class="hero">
+      <nav>
          <li><a href="index.html">Home</a></li>
-                <li><a href="About.html">About Us</a></li>
-                <li><a href="Blog.html">Blog</a></li>
+         <li><a href="About.html">About Us</a></li>
+         <li><a href="Blog.html">Blog</a></li>
+        </nav>
         <div class="hero-content">
             <h1>Welcome to Our Website</h1>
             <p>Discover amazing things with us!</p>
+
 
             <p># Fitness Blog
 
@@ -41,6 +53,30 @@ In the hustle and bustle of modern life, finding balance is key to overall well-
                 <input type="email" name="email" placeholder="Enter your email">
                 <button type="submit">Subscribe</button>
             </form>
+
+          <script>
+            import React from 'react';
+import ReactMarkdown from 'react-markdown';
+
+const MarkdownRenderer = ({ content }) => {
+  return <ReactMarkdown>{content}</ReactMarkdown>;
+};
+
+
+
+const MyPage = () => {
+  return (
+    <div>
+      <h1>My Markdown Page</h1>
+      <MarkdownRenderer content={markdownContent} />
+    </div>
+  );
+};
+
+export default MyPage;
+
+          </script>
+
         </div>
     </header>
 </body>
