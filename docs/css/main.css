@@ -1,5 +1,5 @@
 /* Reset default margin and paddingg */
-body, h1, p {
+body, h1,  {
   margin: 0;
   padding: 0;
 }
