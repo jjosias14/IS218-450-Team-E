@@ -1,5 +1,8 @@
 # Midterm Group Project - Starter
 
+https://jjosias14.github.io/IS218-450-Team-E/
+
+
 ## Overview
 
 Use this for all your group documentation and put links to the documents in canvas as requested for each assignment.  See the project [here](https://github.com/kaw393939/webdev_one_group_project) for up-to-date info that I will update as the project progresses and to deploy any changes for everyone.
