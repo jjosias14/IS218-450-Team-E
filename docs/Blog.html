@@ -25,10 +25,28 @@
         <div class="hero-content">
             <h1>Welcome to Our Website</h1>
             <p>Discover amazing things with us!</p>
-            <form class="cta-form" action="#" method="post">
-                <input type="email" name="email" placeholder="Enter your email">
-                <button type="submit">Subscribe</button>
-            </form>
+          <script>
+            import React from 'react';
+import ReactMarkdown from 'react-markdown';
+
+const MarkdownRenderer = ({ content }) => {
+  return <ReactMarkdown>{content}</ReactMarkdown>;
+};
+
+export default MarkdownRenderer;
+
+const MyPage = () => {
+  return (
+    <div>
+      <h1>My Markdown Page</h1>
+      <MarkdownRenderer content={markdownContent} />
+    </div>
+  );
+};
+
+export default MyPage;
+
+          </script>
         </div>
     </header>
 </body>
